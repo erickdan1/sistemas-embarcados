@@ -26,6 +26,7 @@ Este repositório contém experimentos desenvolvidos com microcontroladores da f
 | **01 - Periféricos**      | Manipulação de máscaras de bits.               | ✅ Completo  |  
 | **02 - Máquina de Estados**     | Multiprogramação com Máquinas de Estados Finitos.  | ✅ Completo  |  
 | **03 - Timer**      | Configuração de temporizadores.  | ✅ Completo |  
+| **04 - Interface Serial**      | Configura a interface serial para transmitir e receber dados.  | ✅ Completo |  
 
 > Outros experimentos serão adicionados em breve!  
 
