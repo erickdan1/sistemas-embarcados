@@ -27,6 +27,9 @@ Este repositório contém experimentos desenvolvidos com microcontroladores da f
 | **02 - Máquina de Estados**     | Multiprogramação com Máquinas de Estados Finitos.  | ✅ Completo  |  
 | **03 - Timer**      | Configuração de temporizadores.  | ✅ Completo |  
 | **04 - Interface Serial**      | Configura a interface serial para transmitir e receber dados.  | ✅ Completo |  
+| **05 - Buffers Circulares**      | Transmição e recebimento de caracteres e strings pela interface serial.  | 🔍 Review  |  
+| **06 - Processador SAB80C517A**      | Experimento 5 modificado para processador SAB80C517A.  | 🔍 Review  |  
+| **07 - Problema de Acesso**      | No 8051, o acesso não atômico a variáveis de 16 bits pode resultar em leituras inconsistentes.  | ✅ Completo |  
 
 > Outros experimentos serão adicionados em breve!  
 
